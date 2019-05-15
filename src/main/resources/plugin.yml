@@ -1,0 +1,4 @@
+name: SqlProggy
+version: ${project.version}
+main: org.waqe.pl.sqlproggy.SqlProggy
+api-version: 1.13
